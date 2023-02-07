@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GitBash_practica
 
 aaaaaaaaaaaa ES DEMASIADO SEXOOOO
@@ -19,3 +20,8 @@ Aicón que me borras agustin
 =======
 >>>>>>> develop
 >>>>>>> 196590c3dcacc19353c77b43599a1467c860946c
+=======
+
+# GitBash_practica
+ola
+>>>>>>> mateo
