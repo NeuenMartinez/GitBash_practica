@@ -24,8 +24,16 @@ Aicón que me borras agustin
 =======
 
 # GitBash_practica
+<<<<<<< HEAD
 ola
 >>>>>>> mateo
 =======
+<<<<<<< HEAD
 Aiconcito
 >>>>>>> Aicón
+=======
+
+
+cambio
+>>>>>>> mateo
+>>>>>>> 3246ef3bb892b36fe3aaeb778d9aee89cd0d36cd
