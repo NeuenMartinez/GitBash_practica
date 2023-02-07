@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GitBash_practica
 
 aaaaaaaaaaaa ES DEMASIADO SEXOOOO
@@ -28,10 +29,18 @@ Aicón que me borras agustin
 ola
 >>>>>>> mateo
 =======
+<<<<<<< HEAD
+Aiconcito
+>>>>>>> Aicón
+=======
 
 
 cambio
 >>>>>>> mateo
+<<<<<<< HEAD
 =======
 ultima
 >>>>>>> mateo
+=======
+>>>>>>> 3246ef3bb892b36fe3aaeb778d9aee89cd0d36cd
+>>>>>>> fe1992121f391b0ca99d20ba94655b9432f8c84d
