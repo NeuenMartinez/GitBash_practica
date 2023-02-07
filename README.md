@@ -1,1 +1,1 @@
-Aiconcito
+Aicon
