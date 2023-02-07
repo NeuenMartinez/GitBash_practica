@@ -6,6 +6,7 @@
 aaaaaaaaaaaa ES DEMASIADO SEXOOOO
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 cambio dos
 
 oallla
@@ -30,4 +31,7 @@ ola
 
 
 cambio
+>>>>>>> mateo
+=======
+ultima
 >>>>>>> mateo
