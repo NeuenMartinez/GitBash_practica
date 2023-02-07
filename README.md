@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GitBash_practica
 
 aaaaaaaaaaaa ES DEMASIADO SEXOOOO
@@ -25,3 +26,6 @@ Aicón que me borras agustin
 # GitBash_practica
 ola
 >>>>>>> mateo
+=======
+Aiconcito
+>>>>>>> Aicón
